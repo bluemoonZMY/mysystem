@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.jpg</file>
+        <file>res/Icon.jpg</file>
+        <file>res/MenuSceneStartButton.png</file>
+        <file>res/mainbackground.jpg</file>
+        <file>res/mainscene/reportmenu.jpg</file>
+        <file>res/mainscene/continuation.jpg</file>
+        <file>res/mainscene/database.jpg</file>
+        <file>res/mainscene/equipmamager.jpg</file>
+        <file>res/mainscene/intellectezr.jpg</file>
+        <file>res/mainscene/log.jpg</file>
+        <file>res/mainscene/sourcerecord.jpg</file>
+        <file>res/mainscene/reportmenu_on.jpg</file>
+        <file>QML/reportscene.qml</file>
+        <file>QML/tree/i-collpase-16.svg</file>
+        <file>QML/tree/i-expand-16.svg</file>
+        <file>QML/tree/i-file-16.svg</file>
+        <file>QML/tree/i-image-16.svg</file>
+        <file>QML/tree/i-save-16.svg</file>
+        <file>QML/tree/Tree.qml</file>
+        <file>QML/tree/TreeDemo.qml</file>
+        <file>QML/tree/treeitem.js</file>
+        <file>QML/tree/TreeMenu.qml</file>
+        <file>QML/images/close.jpg</file>
+        <file>QML/images/icon1.png</file>
+        <file>QML/images/icon2.png</file>
+        <file>QML/images/icon3.png</file>
+        <file>QML/images/min.jpg</file>
+        <file>QML/images/top.jpg</file>
+        <file>QML/images/icon4.png</file>
+        <file>QML/images/bug.png</file>
+        <file>QML/images/config.png</file>
+        <file>QML/images/run.png</file>
+        <file>QML/qmlsheet/Sheet1.qml</file>
+        <file>QML/qmlsheet/Sheet2.qml</file>
+        <file>QML/qmlsheet/Sheet3.qml</file>
+        <file>QML/qmlsheet/Sheet4.qml</file>
+        <file>QML/controlsheet/Controlbottom.qml</file>
+        <file>QML/controlsheet/Controlright.qml</file>
+        <file>QML/qmlsheet/Jiejs.js</file>
+        <file>res/management/QRcode.jpg</file>
+    </qresource>
+</RCC>
